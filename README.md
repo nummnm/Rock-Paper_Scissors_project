@@ -1,1 +1,1 @@
-# Rock-Paper_Scissors_project
+# Rock_Paper_Scissors_project
